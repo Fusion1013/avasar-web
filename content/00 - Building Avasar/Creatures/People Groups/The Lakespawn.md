@@ -1,0 +1,14 @@
+*"Truly Holy Water"*
+## Origin
+Lakespawn refers to a group of people originating from the [[Osirion Emirate Overview#Pylon Lake|Pylon Lake]] in the [[Osirion Emirate Overview|Osirion Emirate]]. They live for an average amount of time slightly more than humans of around 90.
+### Risen From the Lake
+The Lakespawn were first seen a few months after the creation of the [[Osirion Emirate Overview#Pylon Lake|Pylon Lake]] by the [[Anvarra, Goddess of Life|Goddess of Life, Anvarra]]. These beings were somehow created within the magical lake, becoming sentient forms of magical water forming into a humanoid shape. Unlike other mortal beings, they are not born from one another. Instead, these people rise out of the lake at an incredibly young age. Once a Lakespawn is discovered, the [[Osirion Emirate Overview#The Sects|the Sects of the Emirate]] choose who will act as their mentor and parental figure. They commonly are mentored and raised by other more mature Lakespawn, and take on whatever last name they had. However, it’s been recorded for other species and groups to raise a Lakespawn, such as clerical orders.
+### Symbol of Divinity
+Lakespawn are seen as symbols of [[Anvarra, Goddess of Life|Anvarra]]’s blessing to the [[Osirion Emirate Overview|Emirate]]. Each Lakespawn is meant to have a resemblance to a former cleric or divine warrior, whether it be through their voice, facial features, personality, or goals. Those that exist are often assisted into pursuing their goals or passions by her worshippers. Many Lakespawn even become clerics, either of [[Anvarra, Goddess of Life|Anvarra]] or a different deity.
+### Cycle of Life
+Only a certain amount of Lakespawn exist at a time. Whenever one dies and slowly begins the process of turning back into water, another will rise out of the lake. The amount of time between the death of one Lakespawn and the birth of another depends on how far the Lakespawn was from the lake at the time. The closer they were at their death, the quicker this process is. The amount of time this takes ranges from a few months to decades.
+## Description
+### Shape of Water
+Lakespawn are medium-sized humanoids with light blue skin and pointed, fin-like ears. They do not have any hair; instead, they have water atop their heads, and sometimes faces, meant to look like hair. Their eyes are also are made purely of water. Since the Lakespawn have no reproductive organs, they technically don’t have a sex. However, many will take on more feminine or masculine pronouns based on the form they have.
+### Their Form with Age
+As a Lakespawn begins to age, it becomes more difficult for them to hold this form. More and more of their blue skin fades, showing the clear water underneath. Eventually, once a Lakespawn has died, they will fully revert to water over time. Magic such as the Gentle Repose spell can prevent this from occurring.

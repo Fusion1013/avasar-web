@@ -1,0 +1,3 @@
+*"Those who would lead the new people of Siar to prosperity must be revered"*
+## Overview
+The six Archons of the Akmé Hegemony are the spiritual leaders and tyrannical rulers, originally average mortals but now living statues, the rest of their bodies now just as stone as their hearts seem to have always been. Some are mighty warriors, others wise oracles or destructive spellcasters. There is one commonality in their abilities: Whatever trade, craft or style of combat an Archon pursues, they seem to become a paragon in that field.

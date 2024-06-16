@@ -1,0 +1,9 @@
+The primal magicians of the Siar Wilds are tightly controlled by [[Akmé Hegemony Overview|The Hegemony]], and separated into Clades depending on their talents. The Clades are as follows.
+### The Verdant Guard
+The Verdant Guard are the foremost peacekeepers of the [[Akmé Hegemony Overview|Akmé Hegemony]]. It is the Verdant Guard who criminals and traitors answer to. For this they train excellent trackers and rangers to find criminals hiding in the dense jungle, and skilled druids to restrict suspects with living vines. The Verdant Guard are currently led by their High Warden, [[Velur Moonreave]].
+### Soulmenders
+The Soulmenders are concerned chiefly with maintaining [[Akmé]]’s spirit, as they see it. Modern Siar folklore tells that [[Akmé]] must be appeased and offered regular sacrifices of bountiful food and artisan-made goods, otherwise it will grow tired of the [[Akmé Hegemony Overview|Hegemony]]’s presence and force them out. The current High Mender is [[Eupha of the Twilight Thicket]].
+### Cultivators
+The Cultivators keep a close eye on the [[Siar Wilds]]’ growth and keep it in check. The Wilds grow at a very rapid pace, and were it not for the Cultivator Clade, large-scale civilization would apparently be difficult. The Cultivators also oversee much of the agriculture that occurs in the Hegemony. The current High Cultivator is [[Cilomeda Galphon]].
+### Thicketbinders
+The Thicketbinders create [[Akmé Hegemony Overview|The Hegemony]]’s greatest legs up on other civilizations, the ecoconstructs. Large creatures bound of thorny vines, great tree trunks and branches, and other sorts of plant matter, ecoconstructs assist in everything from fighting wars, intimidating the populace, serving as an analogue to beasts of burden seen in other areas, and much more. The current High Thicketbinder is [[Iraea Florashift]].
