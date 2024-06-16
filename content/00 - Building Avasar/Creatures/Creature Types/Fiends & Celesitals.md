@@ -1,7 +1,0 @@
-# Fiends & Celestials
-## Overview
-Fiends & Celestials are positive and negative reflections of each of the [[Planes Overview|Major Planes]] that have a god associated with them, given physical form in the form of [[Creatures Overview|creatures]]. As such, the Material plane does not have any native Fiends or Celestials. As they can originate from wildly different planes, they can have wildly different appearances. Their appearances are often influenced by the plane they originate from.
-
-Powerful Fiends or Celestials have been known to make pacts with other beings, giving them benefits in exchange for their servitude. A common condition for such pacts is that a part of the mortal's soul is forfeited to the divine being. Because of this, when the mortal eventually dies, their soul will be split between [[The Dark Beyond]] and the plane of origin of their patron. They can then choose to either remain in that state of limbo, or join their patron on their home plane. If they go to their patron, they will become a lesser being of their patron’s type. This is one of the ways Fiends and Celestials can form.
-## Formation
-Fiends and Celestials can form in a variety of different ways. One such way was described above, with a mortal forming a pact with one of these beings. Other ways could include creation by a god or other powerful creature, a powerful mortal choosing to become one after their death or an unsuccessful attempt by a mortal to ascend to a plane.
