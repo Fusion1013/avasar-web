@@ -1,2 +1,4 @@
+---
+title: Index
+---
 Avasar: [[Home Page]]
-Personal: 
