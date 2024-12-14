@@ -18,6 +18,7 @@ const config: QuartzConfig = {
     baseUrl: "fusion1013.github.io/avasar-web",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
+    generateSocialImages: false,
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
@@ -36,6 +37,7 @@ const config: QuartzConfig = {
           secondary: "#4FA9FF",
           tertiary: "#0082FF",
           highlight: "rgba(143, 159, 169, 0.15)",
+          textHighlight: "#fff23688",
         },
         darkMode: {
           light: "#161618",
@@ -46,6 +48,7 @@ const config: QuartzConfig = {
           secondary: "#4FA9FF",
           tertiary: "#0082FF",
           highlight: "rgba(143, 159, 169, 0.15)",
+          textHighlight: "#b3aa0288",
         },
       },
     },
