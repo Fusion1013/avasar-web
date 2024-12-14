@@ -4,28 +4,11 @@
 
 // ########## MAIN PAGE ##########
 
-// ########## EXPLORER ##########
+.page {
+	max-width: unset;
+}
 
-// Explorer folders
-.folder-container div>button span {
-    font-size: 0.95rem;
-    line-height: 1.5rem;
-}
-// Explorer Vertical spacing
-#explorer-content li {
-    line-height: 1.6rem;
-}
-// SVG icon
-li:has(>.folder-outer:not(.open))>.folder-container>svg {
-    transform: rotate(-90deg) scale(1.0);
-}
-.folder-icon {
-    transform: scale(1.0);
-}
-// Page links
-#explorer-content ul li>a {
-    font-size: 1rem;
-}
+// ########## EXPLORER ##########
 
 // ########## CALLOUTS ##########
 
