@@ -25,6 +25,10 @@ li:has(>.folder-outer:not(.open))>.folder-container>svg {
     font-size: 1rem;
 }
 
+#explorer-ul.overflow {
+	max-height: 100%;
+}
+
 // ########## CALLOUTS ##########
 
 @charset "UTF-8";
